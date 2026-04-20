@@ -1,16 +1,19 @@
-- 👋 Salut, je suis Clodhand j'apprends python, je suis débutant.
-je suis plus particulièrement intéréssé par comprendre les bases de la programmation d'une ia,
-pour l'appliquer ensuite à des jeux de plateaux.
-Ou alors me servir de jeux de plateaux pour apprendre a programmer.
+# Salut, moi c'est Clodhand
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+J’apprends Python et les bases de l’IA.
+Je m’intéresse surtout à :
+- l’algorithmique
+- les IA locales
+- les jeux de plateau
+- le lien entre programmation et expérimentation
 
-<!---
-Clodhand/Clodhand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Ce que tu trouveras ici
+- des exercices et projets d’apprentissage
+- des travaux autour de Python
+- des notes et benchmarks sur les LLM en local
+
+## Repos à voir
+- `cs50ai` : exercices du cours CS50AI
+- `biblio` : expérimentation autour d’un algo de recherche
+- `Morpion` : projet autour du jeu du morpion
+- `local-llm-cpu-benchmarks` : rapport sur les tests LLM CPU-only
